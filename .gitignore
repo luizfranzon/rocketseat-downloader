@@ -1,0 +1,6 @@
+*.pkl
+.session.json
+__pycache__/
+*.pyc
+Cursos/
+relatorios/
